@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=server
+Comment=An application to securely transfer firmware between server and client
+Exec=python3 /home/sundar/Desktop/mini/servexample.py
+Icon=/home/sundar/Desktop/mini/software.png
+Terminal=true

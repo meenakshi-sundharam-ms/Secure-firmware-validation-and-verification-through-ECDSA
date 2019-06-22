@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=client
+Comment=An application to securely transfer firmware between server and client
+Exec=python3 /home/sundar/Desktop/mini/cliexamp.py
+Icon=/home/sundar/Desktop/mini/software.png
+Terminal=true
